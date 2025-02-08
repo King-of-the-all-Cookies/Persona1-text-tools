@@ -15,7 +15,7 @@
 
 ---
 
-## English {#english}
+## English
 
 ### Persona1-text-tools
 
@@ -60,7 +60,7 @@ bin-tool export game.BIN
 
 ---
 
-## Русский {#russian}
+## Русский
 
 ### Persona1-text-tools
 
@@ -105,7 +105,7 @@ bin-tool export game.BIN
 
 ---
 
-## 日本語 {#japanese}
+## 日本語
 
 ### Persona1-text-tools
 
@@ -151,7 +151,7 @@ bin-tool export game.BIN
 
 ---
 
-## Русский дореформенный {#old_russian}
+## Русский дореформенный
 
 ### Persona1-text-tools
 
@@ -196,7 +196,7 @@ bin-tool export game.BIN
 
 ---
 
-## Esperanto {#esperanto}
+## Esperanto
 
 ### Persona1-text-tools
 
@@ -241,7 +241,7 @@ bin-tool export game.BIN
 
 ---
 
-## Українська {#ukrainian}
+## Українська
 
 ### Persona1-text-tools
 
@@ -286,7 +286,7 @@ bin-tool export game.BIN
 
 ---
 
-## Latine {#latin}
+## Latine
 
 ### Persona1-text-tools
 
@@ -331,7 +331,7 @@ bin-tool export game.BIN
 
 ---
 
-## Русский стихотворный {#poetic_russian}
+## Русский стихотворный
 
 ### Вступление
 
@@ -382,7 +382,7 @@ bin-tool export game.BIN
 
 ---
 
-## "Горе от Кода" {#gore_ot_koda}
+## "Горе от Кода"
 
 *(Сатирическая документация в стиле грибоедовской комедии)*
 
@@ -495,7 +495,7 @@ _Чацкий уезжает, оставляя консоль открытой:_
 ---
 
 
-## "Горе от Кода" (в пересказе DeppSeek){#gore_ot_koda_v2}
+## "Горе от Кода" (в пересказе DeppSeek)
 
 Вот перевод документации `Persona1-text-tools`, выполненный в стиле "Горя от ума", с использованием стихотворного слога и фраз из произведения Грибоедова.
 
